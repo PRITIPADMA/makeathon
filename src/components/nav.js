@@ -42,6 +42,10 @@ function nav() {
                 color="white"
                 border="1px solid white"
                 leftIcon={<FaWallet color="#9E00FF" />}
+                _hover={{
+                  bg: "white",
+                  color: "black",
+                }}
               >
                 Connect Wallet
               </Button>
