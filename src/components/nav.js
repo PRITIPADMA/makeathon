@@ -7,11 +7,11 @@ function nav() {
     <Box
       as="nav"
       backgroundColor="transparent"
-      position="fixed"
+      position="relative"
       width="100%"
       zIndex="1"
     >
-      <Container maxW="container.xl" mt={10}>
+      <Container maxW="container.xl" padding={10}>
         <Flex justifyContent="space-between" alignItems="center">
           <Text fontSize="30" fontWeight="bold" color="white">
             Makeathon
