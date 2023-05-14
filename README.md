@@ -2,6 +2,13 @@
 
 This project aims to develop a blockchain-based system for managing healthcare data, ensuring compliance with regulatory mandates related to data privacy and security. It provides transparency, security, and efficiency in handling sensitive healthcare information.
 
+# Design Preview
+
+- [Web Application Design](https://www.dropbox.com/home?preview=Website+Design.png)
+- [Dashboard Design](https://www.dropbox.com/s/db3j9jepbbtn9yh/Dashboard%20Design.png?dl=0)
+- [Presentation](https://www.figma.com/proto/6pz9g29Hi1fycPy5wsVBr3/Makeathon-Presentation?type=design&node-id=22-942&scaling=scale-down&page-id=0%3A1&starting-point-node-id=22%3A942)
+- [Presentation in PDF](https://www.dropbox.com/home?preview=Presentation+-+Medichain.pdf)
+
 # Document Structure
 
 The project documentation is organized as follows:
